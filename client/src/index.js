@@ -18,5 +18,3 @@ ReactDOM.render(
 );
 console.log('Stripe: ', process.env.REACT_APP_STRIPE_KEY);
 console.log('Env: ', process.env.NODE_ENV);
-
-console.log('TESting personal git pull push');
